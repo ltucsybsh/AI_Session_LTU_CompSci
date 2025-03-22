@@ -1,2 +1,2 @@
-# CS-LTU.github.io
-GitHub repo for the School of Computer Science - Leeds Trinity University 
+# AI_Session_LTU_Compsci
+You will find the activity files for the AI session here. 
